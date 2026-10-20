@@ -27,10 +27,12 @@ A product- and content-specification-ready Phase 1 module, including its learner
 
 - [Establish the fixed source and evidence basis](issues/02-establish-source-evidence-basis.md): pin tele-bot to `14f5af8`, record creator reuse authorization, require behavior verification before distribution, and teach the registration trade-off as interpretation within an educational reconstruction; execution and publication review remain pending.
 
+- [Define the module's teaching progression](issues/03-define-lesson-progression.md): use five problem-first lessons from prediction and connected tracing through state preservation, bounded trade-off analysis, and practice, with decreasing guidance, readiness self-checks, and one recurring workflow diagram.
+
 ## Not yet specified
 
-- Repository-specific surprises may expose additional teaching boundaries or evidence gaps once a workflow and revision are chosen. Their educational consequences cannot yet be framed precisely; graduate concrete questions as they emerge.
-- The chosen teaching sequence and practice may reveal needs for supplementary explanation or a concrete presentation experiment. Scope any resulting decision or throwaway prototype only after its purpose is known; do not grow a full curriculum or produce course content during charting.
+- Repository-specific surprises may expose additional teaching boundaries or evidence gaps during deeper inspection of the selected workflow and fixed revision. Their educational consequences cannot yet be framed precisely; graduate concrete questions as they emerge.
+- Detailed practice selection may reveal supplementary explanation needs beyond the agreed teaching scaffolding and workflow diagram, or a concrete presentation experiment. Scope any resulting decision or throwaway prototype only after its purpose is known; do not grow a full curriculum or produce course content during charting.
 
 ## Out of scope
 
