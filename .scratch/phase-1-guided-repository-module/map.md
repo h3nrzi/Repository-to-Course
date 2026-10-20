@@ -33,10 +33,11 @@ A product- and content-specification-ready Phase 1 module, including its learner
 
 - [Choose bounded practice and prepared feedback](issues/05-choose-bounded-exercise.md): use one reference-assisted, three-scenario prediction exercise with separately checked state, reply, and reasoning choices, immediate prepared feedback, optional hints, and unlimited retries; no overall score or proficiency claim.
 
+- [Choose authentic local practice and validation guidance](issues/06-choose-local-assignment.md): personalize the new-Buyer welcome with existing name precedence, learner-written regression tests, staged assistance, and verified disposable-database setup guidance; local checks remain unverified by the platform.
+
 ## Not yet specified
 
 - Repository-specific surprises may expose additional teaching boundaries or evidence gaps during deeper inspection of the selected workflow and fixed revision. Their educational consequences cannot yet be framed precisely; graduate concrete questions as they emerge.
-- Detailed practice selection may reveal supplementary explanation needs beyond the agreed teaching scaffolding and workflow diagram, or a concrete presentation experiment. Scope any resulting decision or throwaway prototype only after its purpose is known; do not grow a full curriculum or produce course content during charting.
 
 ## Out of scope
 
