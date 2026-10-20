@@ -35,6 +35,8 @@ A product- and content-specification-ready Phase 1 module, including its learner
 
 - [Choose authentic local practice and validation guidance](issues/06-choose-local-assignment.md): personalize the new-Buyer welcome with existing name precedence, learner-written regression tests, staged assistance, and verified disposable-database setup guidance; local checks remain unverified by the platform.
 
+- [Define the external creator publication process](issues/07-define-creator-publication-process.md): use creator-owned external review and exact-release approval, re-review draft changes, publish teaching revisions as separate releases, and stop distribution on withdrawal or blocking findings; no release is approved by this planning decision.
+
 ## Not yet specified
 
 - Repository-specific surprises may expose additional teaching boundaries or evidence gaps during deeper inspection of the selected workflow and fixed revision. Their educational consequences cannot yet be framed precisely; graduate concrete questions as they emerge.
