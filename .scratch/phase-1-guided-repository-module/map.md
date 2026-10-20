@@ -31,6 +31,8 @@ A product- and content-specification-ready Phase 1 module, including its learner
 
 - [Shape discovery and anonymous study](issues/04-shape-anonymous-journey.md): use a catalog-to-introduction journey, freely navigable lessons, self-contained excerpts with exact source links, and visible release/evidence context; keep catalog, module, and lesson structures repository-agnostic.
 
+- [Choose bounded practice and prepared feedback](issues/05-choose-bounded-exercise.md): use one reference-assisted, three-scenario prediction exercise with separately checked state, reply, and reasoning choices, immediate prepared feedback, optional hints, and unlimited retries; no overall score or proficiency claim.
+
 ## Not yet specified
 
 - Repository-specific surprises may expose additional teaching boundaries or evidence gaps during deeper inspection of the selected workflow and fixed revision. Their educational consequences cannot yet be framed precisely; graduate concrete questions as they emerge.
