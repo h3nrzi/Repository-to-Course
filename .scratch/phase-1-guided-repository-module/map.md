@@ -23,7 +23,9 @@ A product- and content-specification-ready Phase 1 module, including its learner
 
 ## Decisions so far
 
-- [Select the smallest coherent teaching experience](issues/01-select-teaching-experience.md): teach tele-bot's `/start` registration/welcome workflow to basic TypeScript programmers, with bounded tracing, prediction, trade-off reasoning, and local-change objectives; source and rights approval remain pending.
+- [Select the smallest coherent teaching experience](issues/01-select-teaching-experience.md): teach tele-bot's `/start` registration/welcome workflow to basic TypeScript programmers, with bounded tracing, prediction, trade-off reasoning, and local-change objectives; the source/evidence decision follows separately.
+
+- [Establish the fixed source and evidence basis](issues/02-establish-source-evidence-basis.md): pin tele-bot to `14f5af8`, record creator reuse authorization, require behavior verification before distribution, and teach the registration trade-off as interpretation within an educational reconstruction; execution and publication review remain pending.
 
 ## Not yet specified
 
