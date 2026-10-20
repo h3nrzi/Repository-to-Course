@@ -29,6 +29,8 @@ A product- and content-specification-ready Phase 1 module, including its learner
 
 - [Define the module's teaching progression](issues/03-define-lesson-progression.md): use five problem-first lessons from prediction and connected tracing through state preservation, bounded trade-off analysis, and practice, with decreasing guidance, readiness self-checks, and one recurring workflow diagram.
 
+- [Shape discovery and anonymous study](issues/04-shape-anonymous-journey.md): use a catalog-to-introduction journey, freely navigable lessons, self-contained excerpts with exact source links, and visible release/evidence context; keep catalog, module, and lesson structures repository-agnostic.
+
 ## Not yet specified
 
 - Repository-specific surprises may expose additional teaching boundaries or evidence gaps during deeper inspection of the selected workflow and fixed revision. Their educational consequences cannot yet be framed precisely; graduate concrete questions as they emerge.
