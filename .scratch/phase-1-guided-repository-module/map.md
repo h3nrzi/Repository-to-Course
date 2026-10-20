@@ -37,6 +37,8 @@ A product- and content-specification-ready Phase 1 module, including its learner
 
 - [Define the external creator publication process](issues/07-define-creator-publication-process.md): use creator-owned external review and exact-release approval, re-review draft changes, publish teaching revisions as separate releases, and stop distribution on withdrawal or blocking findings; no release is approved by this planning decision.
 
+- [Choose the minimum content and delivery approach](issues/08-choose-content-and-delivery-approach.md): use version-controlled Markdown and structured data, Next.js/TypeScript static export, and manual Vercel deployment of the exact locally approved package; verify anonymous preview access and complete withdrawal before distribution.
+
 ## Not yet specified
 
 - Repository-specific surprises may expose additional teaching boundaries or evidence gaps during deeper inspection of the selected workflow and fixed revision. Their educational consequences cannot yet be framed precisely; graduate concrete questions as they emerge.
