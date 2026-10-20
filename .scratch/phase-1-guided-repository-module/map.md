@@ -1,7 +1,7 @@
 # Plan the first guided repository module
 
 Labels: wayfinder:map
-Status: open
+Status: resolved
 
 ## Destination
 
@@ -39,9 +39,11 @@ A product- and content-specification-ready Phase 1 module, including its learner
 
 - [Choose the minimum content and delivery approach](issues/08-choose-content-and-delivery-approach.md): use version-controlled Markdown and structured data, Next.js/TypeScript static export, and manual Vercel deployment of the exact locally approved package; verify anonymous preview access and complete withdrawal before distribution.
 
+- [Define Phase 1 walkthrough and handoff evidence](issues/09-define-phase-1-evaluation-evidence.md): cover all five acceptance criteria with creator-owned actual results and explicit completion blockers; keep human evaluation, publication approval, and formative observations distinct, and hand off to separately authorized specification.
+
 ## Not yet specified
 
-- Repository-specific surprises may expose additional teaching boundaries or evidence gaps during deeper inspection of the selected workflow and fixed revision. Their educational consequences cannot yet be framed precisely; graduate concrete questions as they emerge.
+None at this planning boundary. The creator confirmed the map complete for subsequent specification on 2026-10-20; see [Define Phase 1 walkthrough and handoff evidence](issues/09-define-phase-1-evaluation-evidence.md) for the handoff and treatment of later repository-specific discoveries.
 
 ## Out of scope
 
