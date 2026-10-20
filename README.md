@@ -35,11 +35,29 @@ Open <http://localhost:3000> and <http://localhost:3000/404.html>. Stop the serv
 
 ## Project layout
 
-- `src/app/`: App Router layout, placeholder page, and plain CSS.
+- `src/app/`: App Router layout, placeholder page, and Tailwind CSS theme.
+- `src/components/ui/`: shadcn/ui component source.
+- `src/lib/utils.ts`: shared `cn()` helper for merging Tailwind classes.
 - `docs/setup/`: setup provenance, skill audit, verification evidence, and a manual walkthrough.
 - `docs/product/`, `GLOSSARY.md`, and `.scratch/`: existing product and delivery planning.
 - `.agents/skills/`: project skills, including three reviewed additions from Vercel and OpenAI; see the [skill audit](docs/setup/skills-audit.md).
 
 No environment variables, external fonts, database, or service credentials are required for this scaffold. Dependencies are locked in `package-lock.json`; generated output, dependencies, local environment files, and Vercel state are ignored by Git.
+
+## Styling and UI components
+
+Tailwind CSS v4 runs through `@tailwindcss/postcss` in `postcss.config.mjs`.
+Theme tokens and base styles live in `src/app/globals.css`; v4 uses CSS configuration
+and does not need a `tailwind.config.js` file.
+
+shadcn/ui uses `components.json` and the existing `@/*` import alias. Add components with:
+
+```bash
+npx shadcn@latest add card
+```
+
+Import installed components from `@/components/ui/<name>`. Component source is checked
+into this repository and can be edited directly. See the
+[styling verification guide](docs/setup/styling-verification.md) for checks and a hands-on walkthrough.
 
 The setup follows the current [create-next-app documentation](https://nextjs.org/docs/app/api-reference/cli/create-next-app) and [static export documentation](https://nextjs.org/docs/app/guides/static-exports), retrieved through Context7. See the [setup verification guide](docs/setup/verification.md) for recorded results and the first hands-on check.
